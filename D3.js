@@ -106,7 +106,6 @@ const starWarsCharacters = [
 */
 
 const charactersNames = [];
-console.log("N.1: ", charactersNames);
 
 /* ESERCIZIO 2
   Utilizzando un ciclo for, cicla l'array "starWarsCharacters".
